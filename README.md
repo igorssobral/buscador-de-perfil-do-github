@@ -8,8 +8,9 @@ Esse projeto tem a finalidade de buscar perfis dos usuarios do Github atráveis 
 ![](https://skillicons.dev/icons?i=react,ts,css)
 
 ## 📄Referência
- 🔴 [Video](https://www.youtube.com/watch?v=3sQITRihW_A)
+<a href="https://www.youtube.com/watch?v=3sQITRihW_A" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="border-radius: 20px" target="_blank"></a>
 
- ### 🔔Considerações
 
- ![](https://skillicons.dev/icons?i=linkedin) [ Meu Linkedin](linkedin.com/in/igorsobral-dev/)
+ ### 🔔Minhas Redes
+
+<a href="https://www.linkedin.com/in/igorsobral-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 20px" target="_blank"></a>
